@@ -1,0 +1,1 @@
+Sample empty Flask project for a Debian 8.1 server provisioned by this Fabric script: https://github.com/nekwebdev/fab-debian81
